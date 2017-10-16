@@ -2,8 +2,8 @@
 //  CircleLocation.m
 //  CircleADot
 //
-//  Created by leweny on 4/29/16.
-//  Copyright © 2016 leweny. All rights reserved.
+//  Created by landony on 4/29/16.
+//  Copyright © 2016 landony. All rights reserved.
 //
 //this class to locate the dot position
 #import "CirclePosition.h"
